@@ -7,6 +7,7 @@
 
 Bootstrap 5 for Django.
 
+
 ## Goal
 
 The goal of this project is to seamlessly blend Django and Bootstrap 5.
